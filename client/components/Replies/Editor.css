@@ -1,0 +1,15 @@
+
+
+.editorClass {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #504848;
+    padding: 10px;
+    background: #444449;
+    cursor: text;
+}
+
+.toolbarClass {
+    background: #212529;
+    border-color: #504848;
+}
